@@ -1,0 +1,22 @@
+﻿footer{
+padding:140px 0;
+background-color:forestgreen}
+
+.footer-info{
+width:400px;
+float:left;
+margin-top:10px
+}
+.footer-link{
+width:520px;
+float:right}
+
+    .footer-link ul {
+        width: 150px;
+        float: left;
+        margin-left:20px
+    }
+
+
+    .footer-link ul il {
+    margin:10px 0}
